@@ -5,11 +5,11 @@
 
 
 ## 🔭 I’m currently working on
-- Building my **personal website** ([repo link here])  
+- Building my **personal website**  
 - Launching **Paperclip Labs**: A project to help businesses improve corporate visibility through creative design + web solutions.  
 
 ## 👯 I’m looking to collaborate on
-- Open-source **frontend projects** (HTML, CSS, JavaScript, React).  
+- Open-source **frontend projects** (HTML + CSS).  
 - AI/ML mini-projects with **local LLMs & Generative Engine Optimization (GEO)**.  
 
 ## 🤝 I’m looking for help with
@@ -26,7 +26,7 @@
 - My journey from HR → Tech + Entrepreneurship.  
 
 ## 📫 How to reach me
-- Email: **[your email here]**  
+- Email: **otieno.shadrackk@gmail.com**  
 - LinkedIn: [linkedin.com/in/shadrack-otieno](https://www.linkedin.com/in/shadrack-otieno)  
 
 ## 👨‍💻 All of my projects are available at
@@ -42,16 +42,10 @@
 I’m young, still finding my way, and I truly believe I’ll get there — I’ll fail, I’ll restructure, I’ll try again and again until I succeed.  
 
 
-# 🛠 Skills  
-
-### Programming Languages  
-`JavaScript` `Python` `SQL`  
+# 🛠 Skills   
 
 ### Frontend Development  
-`HTML5` `CSS3` `React` `Tailwind CSS`  
-
-### Backend Development  
-`Node.js` (learning)  
+`HTML5` `CSS3` 
 
 ### AI / Data Analytics  
 `Python` `pandas` `scikit-learn` (learning)  
@@ -66,19 +60,7 @@ I’m young, still finding my way, and I truly believe I’ll get there — I’
 
 # 🌐 Socials  
 - GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- LinkedIn: [linkedin.com/in/shadrack-otieno](https://www.linkedin.com/in/shadrack-otieno)  
-- Twitter: [twitter.com/yourhandle]  
-
----
-
-# ☕ Support Me  
-If you like what I do: [Buy me a coffee](https://www.buymeacoffee.com/yourusername)  
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
+- LinkedIn: [linkedin.com/in/shadrack-otieno](https://www.linkedin.com/in/shadrack-otieno) 
 
 
 <!--
